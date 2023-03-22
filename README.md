@@ -28,6 +28,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 
 # 📖 Hello World <a name="about-project"></a>
@@ -61,7 +62,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -153,3 +153,9 @@ I would like to thank Bee in Student Success who is always avalaible to solve is
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
